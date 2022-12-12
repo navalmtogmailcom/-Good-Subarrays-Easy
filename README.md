@@ -6,6 +6,7 @@ Given an array of integers A, a subarray of an array is said to be good if it fu
 Your task is to find the count of good subarrays in A.
 
 **Solution**
+
 public class Solution {
 
     public int solve(int[] A, int B) {
